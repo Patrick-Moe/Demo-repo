@@ -1,13 +1,12 @@
-##League of Legends Summary Tracker using Riot Games API
+**League of Legends Summary Tracker using Riot Games API**
 
 #Riot Games Logo
 
-This project provides a League of Legends summary tracker using the Riot Games API. You can use this tool to retrieve various information about players, champions, and matches in the League of Legends game.
+This project provides a League of Legends summary tracker using the Riot Games API. You can use this tool to retrieve various information about players, what the biggest factors are for their previous wins, and summary statistics on their gameplay.
 
 #Table of Contents
 Introduction
 Prerequisites
-Getting Started
 Usage
 API Key
 Endpoints
@@ -45,7 +44,6 @@ This project currently supports the following API endpoints:
 /summoner: Get summoner information by summoner name and region.
 /champion-mastery: Get champion mastery information for a summoner by summoner ID.
 /match-history: Get recent match history for a summoner by account ID.
-You can expand the functionality by adding more endpoints as needed.
 
 Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
